@@ -53,7 +53,7 @@ function Home() {
           transition={{ duration: 1 }}
         >
           <img
-            src="https://avatars.githubusercontent.com/u/9919?v=4"
+            src="../assets/Prasad.jpeg"
             alt="Juttuka Prasad"
             className="w-full h-full object-cover"
           />
