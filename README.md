@@ -9,6 +9,7 @@
 ## 🛠️ My Skills
 
 - HTML5, CSS3, JavaScript
+- Recat js
 - Responsive Web Design
 - Git & GitHub
 - UI/UX Design (Figma)
@@ -29,7 +30,7 @@
 
 ## 📫 Connect With Me
 
-- 📧 Email: prasadjuttuka@gmail.com  
+- 📧 Email: juttukaprasad42@gmail.com  
 - 🌐 Portfolio: [Your Portfolio Link]  
 - 💼 LinkedIn: [Your LinkedIn Link]  
 - 📸 Instagram (optional): [Your Insta if it's creative-oriented]
